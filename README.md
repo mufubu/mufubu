@@ -3,4 +3,5 @@
 - 🌱 C# öğreniyorum.
 - ❤️ Açık kaynak yazılımları seviyorum.
 
-![hippo](https://c.tenor.com/-z2KfO5zAckAAAAM/hello-there-baby-yoda.gif)
+![Furkan Buran GitHub İstatistik](https://github-readme-stats.vercel.app/api?username=mufubu)
+![En İyi Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mufubu&layout=compact)
